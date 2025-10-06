@@ -1,3 +1,7 @@
-print("Yurii Vysotskyi")
+#test = 'abc'
 
-print(2**2)
+"""
+test1 = 'abc'
+test2 = '123'
+test3 = 123
+"""
